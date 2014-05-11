@@ -3,7 +3,6 @@ Dolar Blue PHP
 
 [![Travis Badge](https://secure.travis-ci.org/fedeisas/dolar-blue.png)](http://travis-ci.org/fedeisas/dolar-blue)
 [![Coverage Status](https://coveralls.io/repos/fedeisas/dolar-blue/badge.png)](https://coveralls.io/r/fedeisas/dolar-blue)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fedeisas/dolar-blue/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Latest Stable Version](https://poser.pugx.org/fedeisas/dolar-blue/v/stable.png)](https://packagist.org/packages/fedeisas/dolar-blue)
 [![Latest Unstable Version](https://poser.pugx.org/fedeisas/dolar-blue/v/unstable.png)](https://packagist.org/packages/fedeisas/dolar-blue)
 [![Total Downloads](https://poser.pugx.org/fedeisas/dolar-blue/downloads.png)](https://packagist.org/packages/fedeisas/dolar-blue)
