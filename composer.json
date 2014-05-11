@@ -1,0 +1,31 @@
+{
+  "name": "fedeisas/dolar-blue",
+  "description": "Package to fetch latest USD conversion rate on Argentina's black market",
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Fede Isas",
+      "email": "fedeisas@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "~4.0"
+  },
+  "require-dev" : {
+    "phpunit/phpunit": "3.7.*",
+    "mockery/mockery": "0.9.*",
+    "squizlabs/php_codesniffer": "1.*",
+    "jakub-onderka/php-parallel-lint": "dev-master",
+    "jakub-onderka/php-console-highlighter": "dev-master",
+    "pdepend/pdepend" : "1.1.1",
+    "phpmd/phpmd": "1.5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fedeisas\\DolarBlue\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}

@@ -1,0 +1,282 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Sun, 11 May 2014 17:51:46 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=da15381c7f7721d0e83e704e82f8b1c0f1399830706547; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.preciodolarblue.com.ar; HttpOnly
+CF-RAY: 129039fbef3607d3-MIA
+Content-Encoding: gzip
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="ZSuexmcoIcPH2GUBHfUvZoWFJYpj1BrHwZhF3WR5mzQ="/>
+<title>Precio Dolar Blue - Valor de la cotización del Dólar Paralelo hoy en Argentina</title>
+<meta name="DC.Language" scheme="RFC1766" content="Spanish"/>
+<meta name="VW96.objecttype" content="Document"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="author" content="preciodolar@gmail.com"/>
+<meta name="description" content="En esta Web podrás encontrar el valor de la cotización del Dólar Paralelo hoy en Argentina actualizado constantemente."/>
+<meta name="distribution" content="global"/>
+<meta name="resource-type" content="document"/>
+<meta http-equiv="Pragma" content="cache"/>
+<meta name="robots" content="all,index,follow"/>
+<meta name="Revisit" content="7 days"/>
+<meta name="keywords" content="paralelo,blue,dólar, gratis, precio, valor, argentina, hoy, moneda, actualizado, compra, venta, cambio, estados unidos, u$s, usd, cotización"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok9v=02fcfa4f56/"},atok:"c57bf30c887d2e94da3bf4c87bee6178",petok:"3db606108bfdef5d8330627422f578e1c935dd1a-1399830720-1800",zone:"preciodolarblue.com.ar",rocket:"a",apps:{}}];CloudFlare.push({"apps":{"ape":"33c2597ec1c6a490383c20461c0d69ea"}});document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok9v=97fb4d042e/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<link href="style.css?nocache_2" rel="stylesheet" type="text/css"/>
+
+<script type="text/rocketscript" data-rocketsrc="js/cufon-yui.js"></script>
+<script type="text/rocketscript" data-rocketsrc="js/arial.js"></script>
+<script type="text/rocketscript" data-rocketsrc="js/cuf_run.js"></script>
+
+<script type="text/rocketscript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-5441102-7']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+</head>
+<body>
+<div class="main">
+<div class="header">
+<div class="header_resize">
+<div class="clr"></div>
+</div>
+</div>
+<div class="hbg">
+<div class="hbg_resize">
+<div class="logo"><h1><a href="index.html">Precio Dolar <span>Blue</span><br/><small>.com.ar</small></a></h1></div>
+<h3>Bienvenido!...</h3>
+<p>En PrecioDolarBlue.com.ar podrás encontrar la cotización del Dólar paralelo en Argentina, también llamado Dólar "Blue".<br/>
+El valor del Dólar es actualizado constantemente garantizar la actualidad de la cifra.</p>
+<div class="menu">
+<ul>
+<li class="active"><a href="index.html">Inicio</a></li>
+<li><a href="#">Términos y Condiciones</a></li>
+<li><a href="#">Contacto</a></li>
+</ul>
+</div>
+<div class="clr"></div>
+</div>
+</div>
+<div class="content">
+<div class="content_resize">
+<div class="mainbar">
+<div class="article">
+<h2>Precios del Dólar Blue Hoy: 09/05/2014</h2>
+<div>
+<table>
+<tr>
+<td>
+<table style="text-align: center; width: 450px; height: 255px; background-image: url('images/bloque.jpg');">
+<tr style="height: 70%;">
+<td style=""><span>Compra:</span></td>
+<td style=""><span>Venta:</span></td>
+</tr>
+<tr style="height: 30%; vertical-align: top; ">
+<td style="">10.50</td>
+<td style="">10.50</td>
+</tr>
+</table>
+</td>
+<td>
+<script async data-rocketsrc="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/rocketscript"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2925492959876478" data-ad-slot="6487269709"></ins>
+<script type="text/rocketscript">
+											(adsbygoogle = window.adsbygoogle || []).push({});
+											</script>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align: center; line-height:20px;">
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.preciodolarblue.com.ar&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.preciodolarblue.com.ar" data-lang="es" data-count="none">Twittear</a>
+<script type="text/rocketscript">!function(d, s, id) {
+                                                        var js, fjs = d.getElementsByTagName(s)[0];
+                                                        if (!d.getElementById(id)) {
+                                                            js = d.createElement(s);
+                                                            js.id = id;
+                                                            js.src = "//platform.twitter.com/widgets.js";
+                                                            fjs.parentNode.insertBefore(js, fjs);
+                                                        }
+                                                    }(document, "script", "twitter-wjs");</script>
+<div class="g-plusone" data-annotation="bubble" data-size="medium"></div>
+<script type="text/rocketscript" data-rocketsrc="https://apis.google.com/js/plusone.js">
+                                                    {
+                                                        lang: 'es-419'
+                                                    }
+                                                </script>
+</div>
+<p style="text-align: center">Actualizado: 16:00 - Fuente: Ámbito Financiero</p>
+</td>
+<td></td>
+</tr>
+</table>
+</div>
+</div>
+<div style="margin-left: 10px">
+<h2>Notificaciones instantáneas!</h2>
+<p style="font-weight: bold;">Recibe notificaciones de forma automática cuando se realice algún cambio en la cotización del Dólar Blue.</p>
+<div style="float:left; width: 100%;">
+<div style="float:left; width: 5%;">&nbsp;</div>
+<div style="float:left; width: 40%; text-align: center; border: 1px solid #D6D6D6; border-radius: 10px; padding: 3px; background-color: #03a5d1; color: #ffffff;">
+<p>Instala la aplicación para <b>Google Chrome</b> <br/>y recibe alertas en tu <b>computadora</b>.</p>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/precio-dolar-blue/knpmhigpfdjcjpgmlfllpfhlibjgipco">
+<img alt="Chrome app on Chrome Web Store" src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png" onclick="_gaq.push(['_trackEvent', 'Chrome App', 'click', 'blue button']);" style="border-radius: 10px;"/>
+</a>
+</div>
+<div style="float:left; width: 40%; text-align: center; padding: 3px;">
+<p>Instala la aplicación para <b>Android</b> <br/>y recibe alertas en tu <b>celular</b>.</p>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.preciodolar.blue">
+<img alt="Android app on Google Play" src="https://developer.android.com/images/brand/es-419_app_rgb_wo_60.png" onclick="_gaq.push(['_trackEvent', 'Android App', 'click', 'blue button']);"/>
+</a>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+<div class="article" style="width: 90%">
+<h2>Conversor Online:</h2>
+<p>Utiliza este conversor para convertir rápidamente de pesos a dólares blue y viceversa, ya que este utiliza el precio del dólar paralelo actualizado de PrecioDolarBlue.com.ar</p>
+</div>
+<table style="width: 90%">
+<tr>
+<td>
+<table width="335" style="padding-top: 40px; text-align: center; background-image: url('images/bloque_mini.jpg'); height: 270px">
+<tr>
+<td>
+<form name="formulario" id="formulario" action="">
+<table style="width: 100%;">
+<tr>
+<td>
+<p>Dólares: <input type="text" size="4" name="dolares"/>U$D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pesos: <input type="text" size="4" name="pesos"/>$</p>
+</td>
+</tr>
+<tr>
+<td>
+<input class="button" name="Button" type="button" onclick="document.formulario.pesos.value = (document.formulario.dolares.value) *10.60" value="Calcular"/>
+</td>
+</tr>
+</table>
+</form>
+</td>
+<td>
+<form name="formulario1" id="formulario1" action="">
+<table style="width: 100%;">
+<tr>
+<td>
+<p>Pesos: <input type="text" size="4" name="pesos"/>U$D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dólares: <input type="text" size="4" name="dolares"/>$</p>
+</td>
+</tr>
+<tr>
+<td>
+<input class="button" name="Button" type="button" onclick="document.formulario1.dolares.value = (document.formulario1.pesos.value) /10.70" value="Calcular"/>
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>
+</td>
+<td width="300">
+<script async data-rocketsrc="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/rocketscript"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2925492959876478" data-ad-slot="9440736109"></ins>
+<script type="text/rocketscript">
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>
+</td>
+</tr>
+</table>
+</div>
+<div class="sidebar">
+<div class="gadget">
+<script type="text/rocketscript"><!--
+                                google_ad_client = "ca-pub-2925492959876478";
+                                /* DolarBlue Vertical 160x600 */
+                                google_ad_slot = "6517699251";
+                                google_ad_width = 160;
+                                google_ad_height = 600;
+                                //-->
+                            </script>
+<script type="text/rocketscript" data-rocketsrc="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                            </script>
+</div>
+</div>
+<div class="clr"></div>
+</div>
+</div>
+<div class="fbg">
+<div class="fbg_resize">
+<div class="col c1">
+<h2>Precio del Dólar</h2>
+<p>Consulta también el <a target="_blank" href="http://www.preciodolar.com.ar">Precio del Dólar</a>!<br/>
+<a target="_blank" href="http://www.preciodolar.com.ar"><img src="images/bloque_dolar.jpg" alt="Precio del Dólar" width="150" height="36" border="0"/></a></p>
+</div>
+<div class="col c2">
+<h2>Precio del Euro</h2>
+<p>Consulta también el <a target="_blank" href="http://www.precioeuro.com.ar">Precio del Euro</a>!<br/>
+<a  target="_blank"href="http://www.precioeuro.com.ar"><img src="images/bloque_euro.jpg" alt="Precio del Euro" width="150" height="36" border="0"/></a></p>
+                    </div>
+                    <div class="col c3">
+                        <h2>Precio del Oro</h2>
+                        <p>Consulta también el <a target="_blank" href="http://www.precio-oro.com.ar">Precio del Oro</a>!<br/>
+                            <a target="_blank" href="http://www.precio-oro.com.ar"><img src="images/bloque_oro.jpg" alt="Precio del Oro" width="150" height="36" border="0"/></a></p>
+                    </div>
+                    <div class="clr"></div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="footer_resize">
+                    <p class="lf"><a target="_blank" href=
+                        "http://www.ademails.com/estadisticas1060017926.htm"><script type=
+                                                                                     "text/rocketscript" language="JavaScript">
+                                                                                         <!--
+                                                                                         document.write("<img src=\"http://www.ademails.com/cgi-bin/contador.cgi?ID=1060017926");
+                                                                                         document.write("&referer=");
+                                                                                         document.write(escape(document.referrer));
+                                                                                         document.write("\" border=0 alt=\"Estadisticas\">");
+                                                                                         // -->
+                            </script></a> PrecioDolarBlue.com.ar Copyright &copy; 2012.Prohibida la Reproducción Parcial o Total de esta Web.</p>
+                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+    </body>
+</html>
