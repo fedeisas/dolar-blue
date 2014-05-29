@@ -21,7 +21,7 @@ Begin by installing this package through Composer. Edit your project's `composer
 {
   "require": {
         ...
-        "fedeisas/dolar-blue": "dev-master"
+        "fedeisas/dolar-blue": "1.*"
         ...
     },
     "minimum-stability" : "dev"
